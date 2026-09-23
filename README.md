@@ -91,7 +91,7 @@ How to run the training interface and to export configurations and submission re
 ### Instalation and usage
 Clone this repository
 ```
-git
+git clone git@github.com:megyant/42_netpractice.git netpractice
 cd netpractice
 ```
 
@@ -110,9 +110,9 @@ Once the application opens, select your preferred mode:
 - `Training`: Plays through all levels sequentially.
 - `Evalutation`: Randomly selects 3 levels, starting from level 6.
 
-### Submission details
+### Configuration details
 
-To generate your submission files, click `Get my config` after completing a level and save the file in the root directory of the repository. There are 10 levels total and there should be a configuration file per level.
+To generate your configuration files, click `Get my config` after completing a level and save the file.
 
 ## Resources
 
